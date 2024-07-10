@@ -36,6 +36,6 @@ This project aggregates news articles from RSS feeds, persists the data, and ext
 
 ## Usage
 
-1. Customize RSS feed URLs in config.json to specify sources.
-2. Modify filter criteria in filterArticles.js for specific article selection.
+1. Customize RSS feed URLs in `config.json` to specify sources.
+2. Modify filter criteria in `filterArticles.js` for specific article selection.
 3. Explore advanced topic extraction and entity recognition techniques using libraries like `natural` and `compromise`.
