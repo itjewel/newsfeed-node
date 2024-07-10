@@ -23,12 +23,16 @@ This project aggregates news articles from RSS feeds, persists the data, and ext
    ```
 
 2. Fetch and process article:
+   ```sh
    node fetchRss.js
    node topicExtraction.js
    node namedEntityRecognition.js
+   ```
 
 3. Filter articles:
+   ```sh
    node filterArticles.js
+   ```
 
 ## Usage
 

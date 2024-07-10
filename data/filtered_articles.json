@@ -1,33 +1,32 @@
 [
     {
-        "title": "Samsung Electronics union goes on indefinite strike",
-        "description": "A union for almost a quarter of the firm's South Korean workers called the walkout over better pay and benefits.",
-        "pub_date": "Wed, 10 Jul 2024 01:47:45 GMT",
+        "title": "Tech giant Samsung workers to strike indefinitely",
+        "description": "A union for almost 25% of the firm's South Korean workers called the walkout over pay and benefits.",
+        "pub_date": "Wed, 10 Jul 2024 05:04:58 GMT",
         "source_url": "https://www.bbc.com/news/articles/c51yelv4e72o",
         "topics": [
-            "union",
-            "electronics",
-            "goes",
-            "indefinite",
-            "strike",
-            "quarter",
             "workers",
+            "strike",
+            "indefinitely",
+            "union",
             "called",
             "walkout",
             "pay",
             "benefits",
+            "25",
             "samsung",
             "almost",
             "south",
             "korean",
-            "better",
-            "firm"
+            "firm",
+            "giant",
+            "tech"
         ],
         "entities": {
             "people": [],
             "places": [],
             "organizations": [
-                "Samsung Electronics union",
+                "Samsung workers",
                 "South Korean workers"
             ]
         }
@@ -44,13 +43,13 @@
             "jump",
             "benefiting",
             "lifted",
-            "prices",
             "advanced",
             "chips",
             "samsung",
             "south",
             "korean",
             "boom",
+            "prices",
             "giant",
             "tech",
             "ai"
