@@ -1,0 +1,67 @@
+[
+    {
+        "title": "Samsung Electronics union goes on indefinite strike",
+        "description": "A union for almost a quarter of the firm's South Korean workers called the walkout over better pay and benefits.",
+        "pub_date": "Wed, 10 Jul 2024 01:47:45 GMT",
+        "source_url": "https://www.bbc.com/news/articles/c51yelv4e72o",
+        "topics": [
+            "union",
+            "electronics",
+            "goes",
+            "indefinite",
+            "strike",
+            "quarter",
+            "workers",
+            "called",
+            "walkout",
+            "pay",
+            "benefits",
+            "samsung",
+            "almost",
+            "south",
+            "korean",
+            "better",
+            "firm"
+        ],
+        "entities": {
+            "people": [],
+            "places": [],
+            "organizations": [
+                "Samsung Electronics union",
+                "South Korean workers"
+            ]
+        }
+    },
+    {
+        "title": "Samsung expects profits to jump by more than 1,400%",
+        "description": "The South Korean tech giant is benefiting from the AI  boom which has lifted the prices of advanced chips.",
+        "pub_date": "Fri, 05 Jul 2024 04:47:51 GMT",
+        "source_url": "https://www.bbc.com/news/articles/c25l0yyzjvno",
+        "topics": [
+            "400",
+            "expects",
+            "profits",
+            "jump",
+            "benefiting",
+            "lifted",
+            "prices",
+            "advanced",
+            "chips",
+            "samsung",
+            "south",
+            "korean",
+            "boom",
+            "giant",
+            "tech",
+            "ai"
+        ],
+        "entities": {
+            "people": [],
+            "places": [],
+            "organizations": [
+                "Samsung",
+                "AI"
+            ]
+        }
+    }
+]
